@@ -1,0 +1,7 @@
+Menu/setinline/setinlinegeobotMenuButtonDefault#7533a588 = BotMenuButton;
+botMenuButtonCommands#4258c205 = BotMenuButton;
+botMenuButton#c7b57ce6 text:string url:string = BotMenuButton;
+
+---functions---
+
+bots.getBotMenuButton#9c60eb28 user_id:InputUser = BotMenuButton;
